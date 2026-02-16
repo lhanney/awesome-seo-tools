@@ -145,6 +145,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [GBP (Google Business Profile)](https://www.google.com/business/) - Google's free tool for managing how your business shows up in Search and Maps. The single most important asset for local SEO.
 - [Yext](https://www.yext.com) - Enterprise listings management. Syncs your business info across directories, maps, and voice assistants.
 - [Moz Local](https://moz.com/products/local) - Pushes your business data out to major directories and aggregators for consistent listings.
+- [myPresences](https://www.mypresences.com) - Manage your listings and reviews on 3000+ online services worldwide. Includes Listings, Reviews, Search, Google Business, AI Visibility and more in one plstform.
 
 ## LLM Visibility Tracking
 
